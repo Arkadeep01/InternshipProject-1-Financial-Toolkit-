@@ -6,11 +6,11 @@ Simplify your financial planning with this all-in-one toolkit! This project offe
 ---
 
 ### 🔹 Core Features
- **✔️ Income Tax Calculator** – Estimate your tax liabilities accurately based on current brackets.
- **✔️ Investment Calculator** – Forecast potential returns and analyze compound growth.
- **✔️ Mortgage Calculator** – Analyze loan payments, interest costs, and amortization.
- **✔️ Savings Goal Calculator** – Plan and track your savings objectives with precision.
- **✔️ Bulk Calculator** – Perform multiple financial calculations efficiently in one go.
+* ** Income Tax Calculator** – Estimate your tax liabilities accurately based on current brackets.
+* ** Investment Calculator** – Forecast potential returns and analyze compound growth.
+* ** Mortgage Calculator** – Analyze loan payments, interest costs, and amortization.
+* ** Savings Goal Calculator** – Plan and track your savings objectives with precision.
+* ** Bulk Calculator** – Perform multiple financial calculations efficiently in one go.
 
 ---
 
