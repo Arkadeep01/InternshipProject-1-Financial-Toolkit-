@@ -27,3 +27,13 @@ Simplify your financial planning with this all-in-one toolkit! This project offe
 * **Accurate Calculations** – Built on reliable formulas for high-precision results.
 * **Time-Saving** – Get quick estimates without the complexity of manual spreadsheets.
 * **Versatile** – A single hub that covers your most essential financial planning needs.
+
+
+# Clone the repository
+`git clone https://github.com/your-username/Financial-Toolkit.git`
+
+# Install dependencies
+`pip install -r requirements.txt`
+
+# Run the application
+`python financial_calculator.py`
