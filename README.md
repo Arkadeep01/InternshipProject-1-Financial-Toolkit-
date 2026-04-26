@@ -3,7 +3,7 @@
 Simplify your financial planning with this all-in-one toolkit!<br>
 This project offers a set of calculators to help you manage your finances effectively.<br>
 
-🔹 Features
+`🔹 Features `
 ✔️ Income Tax Calculator – Estimate your tax liabilities accurately.<br>
 ✔️ Investment Calculator – Forecast potential returns on investments.<br>
 ✔️ Mortgage Calculator – Analyze loan payments and interest costs.<br>
