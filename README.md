@@ -1,5 +1,5 @@
 # 📊 Financial Toolkit
-### Internship Project #1
+### Internship Project 
 
 Simplify your financial planning with this all-in-one toolkit! This project offers a robust set of calculators designed to help you manage your finances effectively through a centralized, intuitive interface.
 
