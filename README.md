@@ -1,11 +1,11 @@
 # 📊 Financial Toolkit
-### Internship Project 
+## Internship Project 
 
 Simplify your financial planning with this all-in-one toolkit! This project offers a robust set of calculators designed to help you manage your finances effectively through a centralized, intuitive interface.
 
 ---
 
-### 🔹 Core Features
+## 🔹 Core Features
 * **✔️Income Tax Calculator** – Estimate your tax liabilities accurately based on current brackets.
 * **✔️Investment Calculator** – Forecast potential returns and analyze compound growth.
 * **✔️Mortgage Calculator** – Analyze loan payments, interest costs, and amortization.
@@ -14,7 +14,7 @@ Simplify your financial planning with this all-in-one toolkit! This project offe
 
 ---
 
-### 🛠️ How It Works
+## 🛠️ How It Works
 1. **Select:** Choose the specialized calculator module you need from the dashboard.
 2. **Input:** Enter the required financial details (Principal, Interest Rate, Income, etc.).
 3. **Analyze:** Receive instant, data-driven results and actionable insights.
