@@ -36,4 +36,4 @@ Simplify your financial planning with this all-in-one toolkit! This project offe
 `pip install -r requirements.txt`
 
 # Run the application
-`python financial_calculator.py`
+`python Financial_Calculator.py`
